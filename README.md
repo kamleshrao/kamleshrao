@@ -1,4 +1,5 @@
-### Hi there, I am Kamlesh Rao from Bangalore 👋
+# Hi there, you got me here on GitHub 👋 
+## I am Kamlesh Rao, from Bengaluru
 
 <!--
 **kamleshrao/kamleshrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
